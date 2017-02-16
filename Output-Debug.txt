@@ -1,0 +1,18 @@
+﻿'Dungeon and Dragon.exe' (Win32): Loaded 'E:\[05] Kodowanie na ekranie\Podyplomowka\[02] C++\[00] Projekt\Dungeons and Dragons\Debug\Dungeon and Dragon.exe'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Symbols loaded.
+'Dungeon and Dragon.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Symbols loaded.
+The thread 0x1ac has exited with code 0 (0x0).
+The thread 0x2244 has exited with code 0 (0x0).
+The thread 0x14a0 has exited with code 0 (0x0).
+The program '[3840] Dungeon and Dragon.exe' has exited with code 0 (0x0).
